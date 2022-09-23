@@ -23,3 +23,11 @@ chat channels/forums?
 Pictures.... need to figure that out.
 Audio notes/messages... even to your self.
 Calendar - link to google.. etc.
+
+
+
+#### Thanks
+Tutorial
+Traversy Media 
+https://www.youtube.com/watch?v=BcLNfwF04Kw
+https://github.com/bradtraversy/project-mgmt-graphql
